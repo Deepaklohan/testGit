@@ -8,7 +8,7 @@ Step 3 : add your project to git
 Step 4 : commands
 
    git config --global user.email "deepak.lohaan@in.ibm.com"
-   git config --global user.name "Deepak Kumar"
+   git config --global user.name "deepaklohan"
 
   - git init
   - git status
