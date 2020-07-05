@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 3C0D-93B0
+
+ Directory of C:\Deepak\Knowledge\Azure + Devops\GITProject
+
+05-07-2020  06:27 PM    <DIR>          .
+05-07-2020  06:27 PM    <DIR>          ..
+05-07-2020  06:27 PM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  26,042,331,136 bytes free
