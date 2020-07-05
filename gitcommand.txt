@@ -7,10 +7,12 @@ Step 3 : add your project to git
 
 Step 4 : commands
 
-   git config --global user.email "yourGitHub@email.com"
-   git config --global user.name "yourGitHubusername"
+   git config --global user.email "deepak.lohaan@in.ibm.com"
+   git config --global user.name "Deepak Kumar"
 
   - git init
   - git status
   - git add
   - git commit -m “…..”
+
+ - git remote add origin https://github.com/Deepaklohan/testGit.git
